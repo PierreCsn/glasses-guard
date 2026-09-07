@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+.env
+.env.*
+
+# Personal / biometric data
+/data/private/
+/models/private/
+*.joblib
+*.pkl
+*.onnx
+*.pt
+*.pth
+
+# Local captures and media
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mov
+*.mp4
+
+# IDE / local machine state
+.vscode/
+.idea/
