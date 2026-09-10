@@ -4,6 +4,12 @@ A small, privacy-first computer-vision utility that checks whether the person cu
 
 The project is intentionally local-first: webcam frames, training images, and trained models are not meant to leave the machine.
 
+## The societal emergency we are bravely solving
+
+![Satirical infographic presenting forgotten glasses as a global crisis](docs/glasses-crisis.svg)
+
+> **Satire:** every study, institution, statistic, economic estimate, and global-crisis claim in the infographic above is fictional. The software, unfortunately, is real.
+
 ## Goal
 
 Build the smallest useful loop:
