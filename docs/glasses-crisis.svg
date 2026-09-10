@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Des lunettes pour un monde meilleur</title>
+  <desc id="desc">Infographie satirique présentant l'oubli des lunettes devant un ordinateur comme une crise mondiale, avec statistiques et études entièrement fictives.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f4f7fb}.navy{fill:#142b45}.ink{fill:#142b45}.muted{fill:#52677d}.card{fill:#fff;stroke:#d7e0ea;stroke-width:2}.accent{fill:#d85f67}.soft{fill:#e9eff6}.serif{font-family:Georgia,'Times New Roman',serif}.sans{font-family:Arial,Helvetica,sans-serif}.small{font-size:18px}.tiny{font-size:14px}.body{font-size:22px}.h2{font-size:28px;font-weight:700}.big{font-size:54px;font-weight:700}.huge{font-size:78px;font-weight:700}.center{text-anchor:middle}
+    </style>
+  </defs>
+  <rect width="1200" height="900" class="bg"/>
+  <rect width="1200" height="190" class="navy"/>
+  <text x="55" y="72" fill="white" class="serif big">DES LUNETTES</text>
+  <text x="55" y="126" fill="white" class="serif big">POUR UN MONDE MEILLEUR</text>
+  <text x="58" y="164" fill="#dbe7f2" class="serif body">Parce qu’un écran sans lunettes, c’est une société qui floue.</text>
+  <text x="865" y="65" fill="white" class="serif body">“Sans mes lunettes,</text>
+  <text x="865" y="96" fill="white" class="serif body">je ne vois pas le problème.</text>
+  <text x="865" y="127" fill="white" class="serif body">Et c’est bien le problème.”</text>
+  <text x="865" y="153" fill="#c8d5e3" class="serif tiny">— Anonyme, probablement 2024</text>
+
+  <rect x="40" y="220" width="350" height="250" rx="14" class="card"/>
+  <text x="65" y="260" class="serif h2 ink">UN PHÉNOMÈNE MASSIF</text>
+  <circle cx="102" cy="314" r="28" class="navy"/><circle cx="170" cy="314" r="28" fill="#aebfd2"/><circle cx="238" cy="314" r="28" fill="#aebfd2"/><circle cx="306" cy="314" r="28" fill="#aebfd2"/><circle cx="354" cy="314" r="28" fill="#aebfd2"/>
+  <text x="215" y="385" class="serif huge ink center">1 sur 5</text>
+  <text x="215" y="421" class="serif body ink center">oublie régulièrement ses lunettes</text>
+  <text x="215" y="448" class="serif body ink center">devant son ordinateur.</text>
+  <text x="65" y="462" class="sans tiny muted">Source fictive : Institut International des Oublis Visuels, n=12.</text>
+
+  <rect x="425" y="220" width="350" height="250" rx="14" class="card"/>
+  <text x="450" y="260" class="serif h2 ink">IMPACT SUR LA SOCIÉTÉ</text>
+  <text x="490" y="338" class="serif big accent center">78%</text>
+  <text x="600" y="338" class="serif big ink center">62%</text>
+  <text x="710" y="338" class="serif big ink center">41%</text>
+  <text x="490" y="373" class="sans tiny ink center">des idées brillantes</text><text x="490" y="393" class="sans tiny ink center">restent floues</text>
+  <text x="600" y="373" class="sans tiny ink center">perdent 23 min</text><text x="600" y="393" class="sans tiny ink center">à plisser les yeux</text>
+  <text x="710" y="373" class="sans tiny ink center">déclarent être</text><text x="710" y="393" class="sans tiny ink center">“de mauvaise humeur”</text>
+  <text x="450" y="462" class="sans tiny muted">Source fictive : Observatoire National de la Productivité Visuelle.</text>
+
+  <rect x="810" y="220" width="350" height="250" rx="14" class="card"/>
+  <text x="835" y="260" class="serif h2 ink">UNE URGENCE MONDIALE</text>
+  <rect x="850" y="298" width="270" height="92" rx="46" fill="#f4d4d7"/>
+  <path d="M875 343 C930 294 1045 300 1096 344 C1046 387 931 390 875 343Z" class="accent" opacity=".8"/>
+  <text x="985" y="425" class="serif body ink center">Dans certains pays, plus de 80%</text>
+  <text x="985" y="451" class="serif body ink center">des gens seraient concernés*</text>
+  <text x="835" y="462" class="sans tiny muted">* Nous avons dessiné la carte avant de choisir le chiffre.</text>
+
+  <rect x="40" y="500" width="545" height="205" rx="14" class="card"/>
+  <text x="65" y="540" class="serif h2 ink">DES CONSÉQUENCES DRAMATIQUES</text>
+  <circle cx="168" cy="617" r="60" class="soft"/>
+  <path d="M168 617 L168 557 A60 60 0 0 1 219 649 Z" fill="#52677d"/>
+  <path d="M168 617 L219 649 A60 60 0 0 1 138 669 Z" fill="#8298ae"/>
+  <path d="M168 617 L138 669 A60 60 0 0 1 108 606 Z" fill="#aebfd2"/>
+  <path d="M168 617 L108 606 A60 60 0 0 1 168 557 Z" fill="#d4dee8"/>
+  <text x="270" y="587" class="sans small ink">28% — mauvaise lecture d’e-mails importants</text>
+  <text x="270" y="617" class="sans small ink">24% — zoom intempestif sur le visage des collègues</text>
+  <text x="270" y="647" class="sans small ink">20% — erreurs de frappe absurdes</text>
+  <text x="270" y="677" class="sans small ink">18% — achat inutile de nouvelles lunettes</text>
+  <text x="65" y="694" class="sans tiny muted">Source fictive : Centre d’Études des Catastrophes du Quotidien.</text>
+
+  <rect x="615" y="500" width="545" height="205" rx="14" class="card"/>
+  <text x="640" y="540" class="serif h2 ink">UN COÛT ÉCONOMIQUE ASTRONOMIQUE</text>
+  <text x="885" y="620" class="serif huge ink center">125 milliards €</text>
+  <text x="885" y="654" class="serif body ink center">de productivité perdue par an*</text>
+  <text x="885" y="681" class="sans small muted center">≈ 14 fois le marché mondial de la pizza surgelée**</text>
+  <text x="640" y="694" class="sans tiny muted">* Faux. ** Également faux, mais très convaincant dans une infographie.</text>
+
+  <rect x="40" y="735" width="1120" height="125" rx="14" class="navy"/>
+  <text x="70" y="780" fill="white" class="serif h2">NOTRE SOLUTION : GLASSES GUARD</text>
+  <text x="70" y="816" fill="#dbe7f2" class="sans body">Détecter localement si vous portez vos lunettes devant votre ordinateur.</text>
+  <text x="835" y="795" fill="white" class="serif h2 center">Des lunettes aujourd’hui.</text>
+  <text x="835" y="829" fill="white" class="serif h2 center">Un monde plus clair demain.</text>
+  <text x="600" y="888" class="sans tiny muted center">SATIRE — toutes les études, institutions et statistiques ci-dessus sont fictives.</text>
+</svg>
